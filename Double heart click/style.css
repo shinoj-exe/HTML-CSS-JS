@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    /* margin: 0;
+    padding: 0; */
+}
+body{
+    font-family: "Roboto",sans-serif;
+    text-align: center;
+    overflow: hidden;
+    margin: 0;
+}
+h3{
+    margin-bottom: 0;
+    text-align: center;
+
+}
+small{
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.loveMe{
+    height: 440px;
+    width: 300px;
+    background-color: aquamarine;
+    margin: auto;
+    cursor: pointer;
+    max-width: 100%;
+    position: relative;
+}
+.lovb
